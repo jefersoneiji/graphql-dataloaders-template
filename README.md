@@ -24,7 +24,7 @@ Use this address
 http://localhost:4000/graphql
 ```
 
-### Docker
+## Docker
 
 1. To build the image type
 ```cmd
